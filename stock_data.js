@@ -1,4 +1,4 @@
-// 產生於 2026-08-04 18:18  10 檔（新系統）
+// 產生於 2026-08-05 18:10  10 檔（新系統）
 const stockData = {
   "加權指數": {
     "ticker": "TWII",
@@ -852,6 +852,16 @@ const stockData = {
         "kd": 44.91,
         "range8": 2194.01,
         "bullbear": 985.32
+      },
+      {
+        "date": "2026/08/05",
+        "close": 44611.6,
+        "high": 44980.3,
+        "low": 43809.82,
+        "change": 1250.94,
+        "kd": 66.65,
+        "range8": 2010.82,
+        "bullbear": 1340.21
       }
     ]
   },
@@ -1717,6 +1727,16 @@ const stockData = {
         "kd": 46.81,
         "range8": 3.25,
         "bullbear": 1.52
+      },
+      {
+        "date": "2026/08/05",
+        "close": 36.05,
+        "high": 37.75,
+        "low": 36.05,
+        "change": 0.65,
+        "kd": 56.96,
+        "range8": 2.75,
+        "bullbear": 1.56
       }
     ]
   },
@@ -2572,6 +2592,16 @@ const stockData = {
         "kd": 48.87,
         "range8": 2.05,
         "bullbear": 1.0
+      },
+      {
+        "date": "2026/08/05",
+        "close": 26.45,
+        "high": 27.15,
+        "low": 26.15,
+        "change": -0.1,
+        "kd": 50.02,
+        "range8": 2.15,
+        "bullbear": 1.07
       }
     ]
   },
@@ -3437,6 +3467,16 @@ const stockData = {
         "kd": 46.67,
         "range8": 4.65,
         "bullbear": 2.17
+      },
+      {
+        "date": "2026/08/05",
+        "close": 48.0,
+        "high": 50.0,
+        "low": 48.0,
+        "change": 0.1,
+        "kd": 58.7,
+        "range8": 4.35,
+        "bullbear": 2.55
       }
     ]
   },
@@ -4302,6 +4342,16 @@ const stockData = {
         "kd": 36.45,
         "range8": 0.7,
         "bullbear": 0.25
+      },
+      {
+        "date": "2026/08/05",
+        "close": 18.9,
+        "high": 19.0,
+        "low": 18.8,
+        "change": 0.05,
+        "kd": 36.2,
+        "range8": 0.55,
+        "bullbear": 0.19
       }
     ]
   },
@@ -5167,6 +5217,16 @@ const stockData = {
         "kd": 53.65,
         "range8": 12.4,
         "bullbear": 6.65
+      },
+      {
+        "date": "2026/08/05",
+        "close": 101.5,
+        "high": 101.5,
+        "low": 92.0,
+        "change": 8.9,
+        "kd": 69.1,
+        "range8": 11.9,
+        "bullbear": 8.22
       }
     ]
   },
@@ -6032,6 +6092,16 @@ const stockData = {
         "kd": 69.35,
         "range8": 18.6,
         "bullbear": 12.89
+      },
+      {
+        "date": "2026/08/05",
+        "close": 76.5,
+        "high": 80.9,
+        "low": 76.1,
+        "change": -1.7,
+        "kd": 71.92,
+        "range8": 18.0,
+        "bullbear": 12.94
       }
     ]
   },
@@ -6897,6 +6967,16 @@ const stockData = {
         "kd": 63.87,
         "range8": 440.0,
         "bullbear": 281.02
+      },
+      {
+        "date": "2026/08/05",
+        "close": 4575.0,
+        "high": 4730.0,
+        "low": 4340.0,
+        "change": 220.0,
+        "kd": 71.04,
+        "range8": 825.0,
+        "bullbear": 586.08
       }
     ]
   },
@@ -7762,6 +7842,16 @@ const stockData = {
         "kd": 45.78,
         "range8": 3.2,
         "bullbear": 1.46
+      },
+      {
+        "date": "2026/08/05",
+        "close": 66.5,
+        "high": 67.5,
+        "low": 66.4,
+        "change": 1.1,
+        "kd": 57.94,
+        "range8": 3.4,
+        "bullbear": 1.96
       }
     ]
   },
@@ -8627,6 +8717,16 @@ const stockData = {
         "kd": 28.65,
         "range8": 1.15,
         "bullbear": 0.32
+      },
+      {
+        "date": "2026/08/05",
+        "close": 19.8,
+        "high": 20.15,
+        "low": 19.8,
+        "change": 0.0,
+        "kd": 34.33,
+        "range8": 0.9,
+        "bullbear": 0.3
       }
     ]
   }
