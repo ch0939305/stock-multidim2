@@ -217,7 +217,7 @@ function renderPage(rows) {
       <td class="${chgClass}">${fmt(s.low, s.low % 1 === 0 ? 0 : 2)}</td>
       <td class="${chgClass}">${fmtChg(s.change)}</td>
       <td class="${kdClass}">${fmt(s.kd, 1)}</td>
-      <td>${fmt(s.range8, 1)}</td>
+      <td>${fmt(s.range8, 2)}</td>
       <td>${fmt(s.bullbear, 2)}</td>
       <td class="note-cell" onclick="editNote(this,'${currentStock}','${s.date}')">${note || '✏️'}</td>
     </tr>`;
