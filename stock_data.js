@@ -1,4 +1,4 @@
-// 產生於 2026-09-14 06:52  10 檔（新系統）
+// 產生於 2026-09-14 19:23  20 檔
 const stockData = {
   "加權指數": {
     "ticker": "TWII",
@@ -11437,6 +11437,156 @@ const stockData = {
         "kd": 16.57,
         "range8": 1.55,
         "bullbear": 0.25
+      }
+    ]
+  },
+  "00632R": {
+    "ticker": "00632R",
+    "history": [
+      {
+        "date": "2026/09/14",
+        "close": 9.97,
+        "high": 0,
+        "low": 0,
+        "change": 0,
+        "kd": 52.58,
+        "range8": 0.23,
+        "bullbear": 0.12
+      }
+    ]
+  },
+  "亞諾法": {
+    "ticker": "亞諾法",
+    "history": [
+      {
+        "date": "2026/09/14",
+        "close": 20.2,
+        "high": 0,
+        "low": 0,
+        "change": 0,
+        "kd": 18.44,
+        "range8": 0.6,
+        "bullbear": 0.11
+      }
+    ]
+  },
+  "凌巨": {
+    "ticker": "凌巨",
+    "history": [
+      {
+        "date": "2026/09/14",
+        "close": 14.5,
+        "high": 0,
+        "low": 0,
+        "change": 0,
+        "kd": 15.4,
+        "range8": 1.85,
+        "bullbear": 0.28
+      }
+    ]
+  },
+  "台橡": {
+    "ticker": "台橡",
+    "history": [
+      {
+        "date": "2026/09/14",
+        "close": 25.45,
+        "high": 0,
+        "low": 0,
+        "change": 0,
+        "kd": 14.4,
+        "range8": 3.75,
+        "bullbear": 0.54
+      }
+    ]
+  },
+  "台泥": {
+    "ticker": "台泥",
+    "history": [
+      {
+        "date": "2026/09/14",
+        "close": 23.9,
+        "high": 0,
+        "low": 0,
+        "change": 0,
+        "kd": 16.33,
+        "range8": 1.05,
+        "bullbear": 0.17
+      }
+    ]
+  },
+  "台苯": {
+    "ticker": "台苯",
+    "history": [
+      {
+        "date": "2026/09/14",
+        "close": 8.65,
+        "high": 0,
+        "low": 0,
+        "change": 0,
+        "kd": 31.43,
+        "range8": 0.78,
+        "bullbear": 0.24
+      }
+    ]
+  },
+  "建漢": {
+    "ticker": "建漢",
+    "history": [
+      {
+        "date": "2026/09/14",
+        "close": 20.4,
+        "high": 0,
+        "low": 0,
+        "change": 0,
+        "kd": 24.28,
+        "range8": 1.15,
+        "bullbear": 0.27
+      }
+    ]
+  },
+  "揚智": {
+    "ticker": "揚智",
+    "history": [
+      {
+        "date": "2026/09/14",
+        "close": 22.35,
+        "high": 0,
+        "low": 0,
+        "change": 0,
+        "kd": 17.25,
+        "range8": 1.75,
+        "bullbear": 0.3
+      }
+    ]
+  },
+  "興富發": {
+    "ticker": "興富發",
+    "history": [
+      {
+        "date": "2026/09/14",
+        "close": 45.7,
+        "high": 0,
+        "low": 0,
+        "change": 0,
+        "kd": 29.17,
+        "range8": 3.5,
+        "bullbear": 1.02
+      }
+    ]
+  },
+  "華孚": {
+    "ticker": "華孚",
+    "history": [
+      {
+        "date": "2026/09/14",
+        "close": 37.95,
+        "high": 0,
+        "low": 0,
+        "change": 0,
+        "kd": 16.84,
+        "range8": 2.8,
+        "bullbear": 0.47
       }
     ]
   }
